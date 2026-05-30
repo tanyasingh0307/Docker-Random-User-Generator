@@ -57,7 +57,7 @@ Country: Mexico
 
 ## Screenshot
 
-![Application Output](images/output.png)
+![Application Output](image.png)
 
 *Output of the Dockerized Random User Generator running inside a Docker container.*
 
